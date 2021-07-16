@@ -27,7 +27,7 @@ public class ConnectionPostgreSql {
 		this.user = "postgres";
 		this.pass = "029696";
 		this.dataBase = "banco_de_sangue";
-		this.schema = "piblic";
+		this.schema = "public";
 	}
 	
 	
