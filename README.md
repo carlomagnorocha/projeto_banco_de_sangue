@@ -21,7 +21,7 @@ O que foi usado para desenvolver o projeto:
 --------------------------------------------------------------------------------------------------------------------------------------
 Como fazer o projeto funcionar:
 --------------------------------------------------------------------------------------------------------------------------------------
-1 - Peimeiro, crie as tabelas no banco de dados PostgreSQL
+1 - Primeiro, crie as tabelas no banco de dados PostgreSQL
   - A pasta scripts_postgresql contem todos os arquivos de criação de cada tabela do sistema
 
 2 - Carregue os dados do arquivo dados.json para as tabelas
