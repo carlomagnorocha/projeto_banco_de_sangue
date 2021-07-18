@@ -35,7 +35,7 @@ Como fazer o projeto funcionar:
  
 4 - Execute o projeto front-end banco_de_sangue_front
   - Para executar o front é necessário ter o nodeJs e o npm instalados (foram usados o nodejs v11.9.0 e npm 6.5.0). Possivelmente, será necessário instalar o node-sass por       meio do comando: "npm install node-sass"
-  - Com isso execute o comando: "npm install" na pasta do projet
+  - Com isso execute o comando: "npm install" na pasta do projeto
   - Depois disso execute o comando: "npm start"
   - Se tudo correr bem, uma aba do navegador se abrirá com a página inicial do projeto.
  
